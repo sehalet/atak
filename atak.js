@@ -1,19 +1,3 @@
-/*
- * Script Name: Mass Attack Planner
- * Version: v1.1.8
- * Last Updated: 2023-07-24
- * Author: RedAlert
- * Author URL: https://twscripts.dev/
- * Author Contact: redalert_tw (Discord)
- * Approved: t14001534
- * Approved Date: 2020-06-05
- * Mod: JawJaw
- */
-
-/*--------------------------------------------------------------------------------------
- * This script can NOT be cloned and modified without permission from the script author.
- --------------------------------------------------------------------------------------*/
-
 javascript:
 (() => {
     const scriptData = {
